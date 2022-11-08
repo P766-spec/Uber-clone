@@ -5,7 +5,7 @@ import { useRouter } from 'next/router'
 import RideSelector from './components/RideSelector'
 import Link from 'next/link'
 
-const confirm = () => {
+const Confirm = () => {
   const router = useRouter()
   const { pickup, dropoff } = router.query
 
@@ -86,7 +86,7 @@ const confirm = () => {
   )
 }
 
-export default confirm
+export default Confirm
 
 const ConfirmButton = tw.div`
 bg-black text-white my-4 mx-4 py-4 text-center text-xl rounded-full
