@@ -1,34 +1,23 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is the Uber Clone made Ui9sn Next.js, TailwindCss and Firebase.
 
-## Getting Started
+1. First page is the Login Page.
 
-First, run the development server:
+![Screenshot (339)](https://user-images.githubusercontent.com/90417642/193866362-4d78c7e0-7163-487a-ad2a-c48c29e124a7.png)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+2. Second Page is the Home Page for selecting the ride.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![Screenshot (342)](https://user-images.githubusercontent.com/90417642/193866539-f190d779-bf5a-44a0-bc9e-e77fd32d46e7.png)
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+3. Thirs Page is the Confirm Location Page Like Pickup and Dropoff.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+![Screenshot (341)](https://user-images.githubusercontent.com/90417642/193866689-6575c6e7-a99f-42c9-ac85-d8d88779e206.png)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+4. Fourth Page is the Confrim Ride page with Pricng!
 
-## Learn More
+![Screenshot (340)](https://user-images.githubusercontent.com/90417642/193866883-d84a4f18-75ed-4cb2-af91-5e4e9d60e517.png)
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
